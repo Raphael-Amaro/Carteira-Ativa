@@ -1,2 +1,2 @@
 # Carteira-Ativa
-Carteira Ativa da Cofiex - Streamlit
+Carteira Ativa da Cofiex
